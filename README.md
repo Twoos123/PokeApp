@@ -1,4 +1,4 @@
-# PokeAppProject
+# PokeApp
 
 PokeApp is a simple React application built with Vite that allows users to search for Pokemon and view their images.
 
@@ -18,13 +18,13 @@ PokeApp is a simple React application built with Vite that allows users to searc
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Twoos123/pokeappproject.git
+    git clone https://github.com/Twoos123/pokeapp.git
     ```
 
 2. **Install dependencies:**
 
     ```bash
-    cd pokeappproject
+    cd pokeapp
     npm install
     ```
 
