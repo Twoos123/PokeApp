@@ -46,10 +46,6 @@ PokeApp is a simple React application built with Vite that allows users to searc
 
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to [PokeAPI](https://pokeapi.co/) for providing the Pokemon data.
