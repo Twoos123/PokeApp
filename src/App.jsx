@@ -45,7 +45,7 @@ function App() {
 
   return (
     <>
-      <div>Pokemon App</div>
+      <h1>Pokemon App</h1>
       <input onChange={(e) => setTextBox(e.target.value)} />
       <button onClick={onSubmit}>Submit</button>
       <PokemonSprite name={pokemon} />
